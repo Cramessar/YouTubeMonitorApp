@@ -2,7 +2,7 @@
 
 Welcome to the **YouTube Monitor App**! 🎉 This project started as a simple experiment but quickly evolved into a full-fledged JavaFX application that can track YouTube channels, notify users of new videos, and keep track of API usage.
 
-🚀 **This has been the biggest challenge of my programming journey so far, and let me tell you—it was a wild ride!** I went from "let’s just make a thing that checks a channel" to "oh wow, now we have API usage tracking, persistent storage, and a dark theme!" 😅
+🚀 **This has been the biggest challenge of my programming journey so far, and let me tell you—it was a wild ride!** I went from "let’s just make a thing that checks a channel" to "oh wow, now I have API usage tracking, persistent storage, and a dark theme!" 😅
 
 ## ✨ Features
 
@@ -30,7 +30,7 @@ Welcome to the **YouTube Monitor App**! 🎉 This project started as a simple ex
 - If a new video is detected, the app **alerts you** and asks if you want to open it.
 - No more manually checking YouTube for updates—this app does the stalking for you (in a completely non-creepy way).
 
-## 🛠 Improvements We Didn't Have Time For (But Totally Want To Do)
+## 🛠 Improvements I Didn't Have Time For (But Totally Want To Do)
 
 ### 💾 Database Storage
 Right now, we’re saving API usage and API keys in local files. A database (even SQLite) would make this **way more scalable**. But hey, we had to ship a working prototype first!
